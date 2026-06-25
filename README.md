@@ -12,3 +12,5 @@ rain. If is a heavy rain fall then the BO motor starts which opens the roof auto
 using a polythene sheet. Here we will be using a Liion batteries for power supply. The roof will be kept on a slope so that the water can be collected
 in a container for feeding animals, washing, cooking, etc., and can also be reused to sprinkle it back.
 
+## CAD : https://a360.co/45MLJgR
+
